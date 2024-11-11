@@ -1,1 +1,16 @@
 /* Start coding here */
+
+/* จัดการ Input ที่ถูก disabled */
+input:disabled {
+    background-color: lightgrey;
+}
+
+/* จัดการ Input เมื่อ hover */
+input:hover {
+    border-color: khaki;
+}
+
+/* จัดการ Button เมื่อ hover */
+button:hover {
+    color: pink;
+}
